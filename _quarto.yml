@@ -1,0 +1,7 @@
+project:
+  title: "magrarView"
+  type: website
+  output-dir: docs
+
+editor: visual
+
